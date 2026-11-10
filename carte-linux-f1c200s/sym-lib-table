@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "sbc")(type "KiCad")(uri "${KIPRJMOD}/lib/sbc.kicad_sym")(options "")(descr "Composants LCSC du projet"))
+)
